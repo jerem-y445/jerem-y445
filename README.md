@@ -1,14 +1,10 @@
-## Hi there 👋
+## Welcome! 🐱
+My name's Jeremy Urena and this is where I spill my creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 📷 I’m currently working on a cat door monitoring system to get notified of when my cat enters the house.
+- 💻 I’m currently learning how to write Bash scripts for automating my Ubuntu home server lab.
+- 🐛 I’m looking to collaborate on Linux firmware to resolve bugs and improve security
 
-<!--
-**jerem-y445/jerem-y445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to look around and see what I'm up to!
 
-Here are some ideas to get you started:
-
-
--->
+<!-- hidden message 🙀 -->
