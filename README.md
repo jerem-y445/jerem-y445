@@ -8,6 +8,6 @@ and Privacy, focused on embedded systems.
 - 📚 Currently learning CMake and bare-metal STM32 programming
 - 🤝 Open to contributing to interesting embedded systems projects
 
-[LinkedIn](https://linkedin.com/in/jeremy-urena2)
+--- [LinkedIn](https://linkedin.com/in/jeremy-urena2) ---
 
 <!-- hidden message 🙀 -->
